@@ -20,7 +20,7 @@ Repositories are being cleaned and published gradually. This section highlights 
 ### [CodeParcel](https://github.com/TrololoBox/codeparcel)
 Local AI handoff packaging tool for codebase mapping, project dumps, and context compression.
 
-### Agent Artifact Registry
+### [Agent Artifact Registry](https://github.com/TrololoBox/agent-artifact-registry)
 Artifact lineage and integrity subsystem designed to preserve reusable project knowledge and reduce repeated analysis.
 
 ### Task Router
