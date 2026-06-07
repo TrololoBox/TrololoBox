@@ -29,7 +29,7 @@ Routing layer for assigning work to agents/workers based on task type, context, 
 ### [Manicure Bot Template](https://github.com/TrololoBox/manicure-bot-template)
 Production-style Telegram booking bot template with scheduling, database layer, admin flow, and reminders.
 
-### Curriculum Tracker
+### [Curriculum Tracker](https://github.com/TrololoBox/curriculum-tracker)
 EdTech system for tracking curriculum plans, classes, teachers, and learning progress.
 
 ## Project Categories
