@@ -32,6 +32,8 @@ Production-style Telegram booking bot template with scheduling, database layer, 
 ### [Curriculum Tracker](https://github.com/TrololoBox/curriculum-tracker)
 EdTech system for tracking curriculum plans, classes, teachers, and learning progress.
 
+[School Map Project](https://github.com/TrololoBox/school-map-project) — static educational roadmap site for school computer science learning paths.
+
 ## Project Categories
 
 ### AI & Developer Tools
