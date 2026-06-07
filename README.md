@@ -1,4 +1,4 @@
-# Arsen / TrololoBox
+# TrololoBox
 
 Teacher-engineer building practical automation systems, Telegram products, AI-assisted developer tools, and EdTech workflows.
 
@@ -65,4 +65,5 @@ Computer Science teacher in Israel and software builder focused on practical too
 
 ## Contact
 
-GitHub: TrololoBox
+* GitHub: @TrololoBox
+* Portfolio: coming soon
