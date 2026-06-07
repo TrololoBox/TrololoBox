@@ -17,7 +17,7 @@ I combine a Computer Science teaching background with hands-on software engineer
 
 Repositories are being cleaned and published gradually. This section highlights the main project directions that will be linked as they become public.
 
-### CodeParcel
+### [CodeParcel](https://github.com/TrololoBox/codeparcel)
 Local AI handoff packaging tool for codebase mapping, project dumps, and context compression.
 
 ### Agent Artifact Registry
