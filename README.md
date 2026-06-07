@@ -23,7 +23,7 @@ Local AI handoff packaging tool for codebase mapping, project dumps, and context
 ### [Agent Artifact Registry](https://github.com/TrololoBox/agent-artifact-registry)
 Artifact lineage and integrity subsystem designed to preserve reusable project knowledge and reduce repeated analysis.
 
-### Task Router
+### [Task Router](https://github.com/TrololoBox/task-router)
 Routing layer for assigning work to agents/workers based on task type, context, and execution rules.
 
 ### Manicure Bot Template
