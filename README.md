@@ -26,7 +26,7 @@ Artifact lineage and integrity subsystem designed to preserve reusable project k
 ### [Task Router](https://github.com/TrololoBox/task-router)
 Routing layer for assigning work to agents/workers based on task type, context, and execution rules.
 
-### Manicure Bot Template
+### [Manicure Bot Template](https://github.com/TrololoBox/manicure-bot-template)
 Production-style Telegram booking bot template with scheduling, database layer, admin flow, and reminders.
 
 ### Curriculum Tracker
